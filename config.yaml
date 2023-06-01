@@ -1,4 +1,4 @@
-baseURL: https://marc.github.io
+baseURL: https://marc.stawiski.ch
 
 languageCode: en-us
 title: "Marc's Blog"
@@ -34,7 +34,7 @@ languages:
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false
   tableOfContents:
     startLevel: 2
     endLevel: 6
@@ -149,7 +149,7 @@ params:
     # Enable Analytics
     analytics:
       enabled: true
-      services:
+      # services:
         # Google Analytics
         #google:
         #  id: G-H4LBG7NDFZ
@@ -157,8 +157,9 @@ params:
         # counterDev:
         #   id: <your counterdev id>
         # GoatCounter
-        goatCounter:
-          code: '<script data-goatcounter="https://marctoha.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
+      goatCounter:
+        code: '<script data-goatcounter="https://marctoha.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>'
         # # Matomo / Piwik
         # matomo:
         #   instance: matomo.example.com
@@ -286,4 +287,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
