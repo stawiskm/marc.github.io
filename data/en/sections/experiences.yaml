@@ -10,55 +10,55 @@ section:
 
 # Your experiences
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  - company:
+      name: University of Applied Sciences and Arts Northwestern Switzerland FHNW
+      url: https://www.FHNW.ch/
+      location: Muttenz
+      # company overview
+      overview: Student support in University of Life Sciences FHNW
+    positions:
+      - designation: Software Engineer
+        start: Apr 2023
+        end: ongoing
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - XXX
+      - designation: Tutor for computer science subjects
+        start: Jan 2020
+        end: Jan 2021
+        responsibilities:
+          - I was responsible for the tutoring program for computer science subjects, providing tutoring for my fellow students in Java, and Python.
+        
+  - company:
+      name: University Hospital Basel
+      url: https://biomedizin.unibas.ch/en/research/
+      location: Basel
+      # company overview
+      overview: Fundamental research in three diverent teams in the Department of Biomedicine
+    positions:
+      - designation: Biology Research Technician
+        start: Aug 2014
+        end: Jul 2022
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Diabetes research in PD Dr. Claudia Cavelti-Weder’s team; I was responsible for acquiring images of stained histology slides, developing scripts for image segmentation, and quantifying regions using image analysis tools such as ImageJ, Ilastik, Python, and shell script.
+          - Diabetes research in Prof. Dr. Marc Donath’s team; I was in charge of characterizing transgenic mouse models using various assays, immunohistochemistry, and other biochemical approaches. In addition, I was responsible for obtaining supplies, breeding many lines of transgenic mice, doing laboratory upkeep, and setting up automated analysis of immunohistochemistry utilizing ImageJ, Ilastik, Python, and Shell-script.
+          - Ocular pharmacology and physiology research in PD Dr. Albert Neutzner’s team; I was in charge of the cloning, expression, and purification of experimental proteins. I was also responsible for analyzing the level of reporter protein in microscope pictures using ImageJ and R.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
-
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - company:
+      name: F. Hoffmann-La Roche AG
+      url: https://www.roche.com/
+      location: Basel
+      # company overview
+      overview: Preclinical research for Roche's Neuroscience Department
+    positions:
+      - designation: Biology Research Technician
+        start: Aug 2012
+        end: Jul 2014
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Preclinical research in neurodegenerative disorders in Dr.Markus Britschgi’s team; I was responsible for the characterization of experimental drugs for the treatment of Parkinson's disease using immunohistochemistry, biochemical techniques, and transgenic mouse models.

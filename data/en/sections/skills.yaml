@@ -11,39 +11,65 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Healthcare and Pharma IT
+  logo: "/images/sections/skills/pharma.png"
+  summary: "Knowledge of the full lifecycle of healthcare data and its standards (HL7, DICOM, CDISC), including data sources like medical records and clinical trials, cleansing and integrating the various sources, managing and accessing the data in clinical information systems, analyzing and reporting the data using appropriate statistical, machine learning, and visualization techniques."
+  url: ""
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Biology
+  logo: "/images/sections/skills/bio.png"
+  summary: "Comprehensive understanding of molecular biology, protein biology, anatomy, and immunology. Over ten years of experience working as a laboratory worker in fundamental and preclinical research laboratories."
+  url: ""
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: Data Science
+  logo: "/images/sections/skills/machine-learning.png"
+  summary: "Capability to process and analyze data and apply machine learning techniques. A comprehensive grasp of the most prevalent machine learning algorithms, from linear regression to LSTM neural networks."
+  url: ""
 
 - name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  logo: "/images/sections/skills/git.png"
+  summary: "Great experience with GIT version control as well as using CI/CD."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Linux
+  logo: 'images/sections/skills/tux.png'
+  summary: 'Using Linux as main operating system. Experienced in writing bash/shell scripts.'
+
+- name: Docker
+  logo: '/images/sections/skills/docker.png'
+  summary: 'Very Experienced with using Docker as well as docker-compose to deploy software solutions at scale'
+  url: 'https://docker.com/'
+
+- name: BPMN
+  logo: "/images/sections/skills/BPMN-logo.svg"
+  summary: "Familiar in modelling a process with user inclusions. And capable to deploy and execute a BPMN model on a workflow engine."
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Skilled with Python scripts, data processing, data analysis, and the application of machine learning methods."
+  url: ""
+
+- name: R
+  logo: "/images/sections/skills/R_prog.png"
+  summary: "Skilled with R scripts, data processing, data analysis, and the application of machine learning methods."
+  url: ""
+
+- name: C
+  logo: 'images/sections/skills/C_Programming_Language.svg'
+  summary: 'Familiar in using C scripts in for Arduino applications for the development of smart home applications'
+
+- name: Java
+  logo: "/images/sections/skills/java.png"
+  summary: "Capable to program object-oriented java projects, use Maven as a build automation tool."
+  url: ""
+
+- name: Spring Boot
+  logo: '/images/sections/skills/springboot.png'
+  summary: 'Experienced in using Spring Boot to deliver backend solutions'
+  url: 'https://spring.io/'
+
+- name: React
+  logo: '/images/sections/skills/react.svg'
+  summary: 'Experienced in using React as a frontend solution'
+  url: 'https://reactjs.org/'
+
